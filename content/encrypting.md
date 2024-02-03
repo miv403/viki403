@@ -2,9 +2,7 @@
 title: şifreleme
 ---
 
-
 # şifreleme
-
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -79,5 +77,5 @@ oba1FEKBHvmgwo7RNHsCV7w5Gd2L+mN/YaF/1Txcs6tpFYmxKv/m81Jl6wY0bd+/
 nwXsyAGUoQUQi5xKiqyTreif9dMjLwgDvBCNBA==
 =XWJa
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
+
